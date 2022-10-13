@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "uname": "admin",
+      "email": "admin@gemail.com",
+      "password": "admin",
+      "id": 0
+    },
+    {
+      "uname": "Jade",
+      "email": "jade.renard@example.com",
+      "password": "158",
+      "id": 2
+    },
+    {
+      "uname": "Gabriele",
+      "email": "gabriele.marie@example.com",
+      "password": "597",
+      "id": 4
+    },
+    {
+      "uname": "Dylan",
+      "email": "dylan.turner@example.com",
+      "password": "509",
+      "id": 5
+    },
+    {
+      "uname": "Leo",
+      "email": "leo@example.com",
+      "password": "965",
+      "id": 6
+    },
+    {
+      "uname": "Kristina",
+      "email": "kristina.langens@example.com",
+      "password": "553",
+      "id": 7
+    },
+    {
+      "uname": "Peppi",
+      "email": "peppi.pietila@example.com",
+      "password": "587",
+      "id": 8
+    },
+    {
+      "uname": "Uriel",
+      "email": "uriel.dejesus@example.com",
+      "password": "778",
+      "id": 9
+    },
+    {
+      "uname": "Bella",
+      "email": "bella.kumar@example.com",
+      "password": "611",
+      "id": 10
+    },
+    {
+      "uname": "Tom",
+      "email": "Tom@example.com",
+      "password": "282",
+      "id": 11
+    },
+    {
+      "uname": "German",
+      "email": "german.soler@example.com",
+      "password": "724",
+      "id": 12
+    },
+    {
+      "uname": "Angelina",
+      "email": "angelina.lucas@example.com",
+      "password": "270",
+      "id": 13
+    },
+    {
+      "uname": "Natalie",
+      "email": "natalie.white@example.com",
+      "password": "443",
+      "id": 14
+    },
+    {
+      "uname": "Gerry",
+      "email": "gerry.wright@example.com",
+      "password": "153",
+      "id": 15
+    },
+    {
+      "uname": "ujj",
+      "email": "Ujjwal@u",
+      "password": "12345",
+      "id": 17
+    },
+    {
+      "uname": "urv",
+      "email": "urv@u",
+      "password": "8790",
+      "id": 18
+    },
+    {
+      "uname": "siri",
+      "email": "sristhi@sd",
+      "password": "5657",
+      "id": 19
+    },
+    {
+      "uname": "lc",
+      "email": "sumit@sumit",
+      "password": "ubdfubdf",
+      "id": 20
+    },
+    {
+      "uname": "smri",
+      "email": "smridhi@etw",
+      "password": "58312",
+      "id": 21
+    },
+    {
+      "uname": "nanu",
+      "email": "nandini@zirak",
+      "password": "123456789",
+      "id": 22
+    },
+    {
+      "uname": "Panditji",
+      "email": "Shivam@shiv",
+      "password": "qwertyuiop",
+      "id": 23
+    },
+    {
+      "uname": "html",
+      "email": "hot@mail",
+      "password": "1234",
+      "id": 24
+    }
+  ]
+}
